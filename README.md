@@ -6,7 +6,7 @@ bar_chart
 line_chart
 Il y aura également un bouton qui coché affiche la matrice de corrélation des données numériques.
 
-Vous mettrez le code dans un notebook et partagerez le lien en lecture -> lien ci-dessous 
+Vous mettrez le code dans un notebook et partagerez le lien en lecture -> code dans app_flights.py
 
 http://localhost:8501/
 
